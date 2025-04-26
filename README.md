@@ -5,30 +5,32 @@ Welcome to the Dice Game!
 This is a fun frontend project where two players roll a die simultaneously and instantly see who wins!
 
 ✨ Features
--🎯 Two players roll at the same time.
 
--🏆 The player with the higher dice value wins.
+- 🎯 Two players roll at the same time.
 
--🎨 Beautiful and simple UI using HTML, CSS, and JavaScript.
+- 🏆 The player with the higher dice value wins.
 
--📱 Responsive design for all screen sizes.
+- 🎨 Beautiful and simple UI using HTML, CSS, and JavaScript.
+
+- 📱 Responsive design for all screen sizes.
 
 🛠️ Tech Stack
--HTML5
+- HTML5
 
--CSS3
+- CSS3
 
--JavaScript (Vanilla)
+- JavaScript (Vanilla)
 
 🎮 How to Play
--Open the game in your browser.
+- Open the game in your browser.
 
--Click the "Roll" button or reload the page (based on your design).
+- Click the "Roll" button or reload the page (based on your design).
 
--See both dice roll and the winner displayed automatically!
+- See both dice roll and the winner displayed automatically!
 
 	
 📈 Future Improvements
+
 ➕ Add a "Play Again" button.
 
 ➕ Track scores over multiple rounds.
@@ -38,10 +40,10 @@ This is a fun frontend project where two players roll a die simultaneously and i
 ➕ Animate the dice rolling!
 
 🚀 Live Demo
--🔗 Check it out here: Dice Game Live
+- 🔗 Check it out here: https://shravan121005.github.io/Dice-game/
 
 📢 Note
--This project is purely frontend-based and is a great practice for DOM manipulation, event handling, and basic game logic in JavaScript.
+- This project is purely frontend-based and is a great practice for DOM manipulation, event handling, and basic game logic in JavaScript.
 
 🙌 Thank you for visiting!
--If you like it, consider giving a ⭐ on GitHub!
+- If you like it, consider giving a ⭐ on GitHub!
